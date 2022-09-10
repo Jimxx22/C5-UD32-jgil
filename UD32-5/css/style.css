@@ -1,0 +1,13 @@
+table{
+    border: 1px solid lightgrey;
+}
+
+.bi-arrow-down-up{
+    color: lightgrey;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+.pags{
+    border: 1px solid lightgrey !important;
+}

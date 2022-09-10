@@ -1,0 +1,31 @@
+body{
+    background-color: gray !important;
+    padding-right: 20vh;
+    padding-left: 20vh;
+}
+
+div{
+    background-color: aliceblue;
+}
+
+.destacado{
+    background-color: lightgrey;
+}
+
+.destacado > h1{
+    font-size: 56px;
+}
+
+.container{
+width: 100% !important;
+}
+
+.articles{
+    padding: 20px !important;
+}
+
+.img{
+    background-color: lightgray;
+    border-radius: 4px;
+    height: 200px;
+}
